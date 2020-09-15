@@ -13,18 +13,24 @@ new Vue({
         // greet: function(time) {
         //     return 'Good ' + time + ' ' + this.name;
         // }
-        add: function(inc) {
-            this.age += inc;
+        // add: function(inc) {
+        //     this.age += inc;
+        // },
+        // subtract: function(inc) {
+        //     this.age -= inc;
+        // },
+        // updateXY: function(event) {
+        //     this.x = event.offsetX;
+        //     this.y = event.offsetY;
+        // },
+        // click: function() {
+        //     alert('you clicked me');
+        // }
+        logName: function() {
+            console.log('you entered your name');
         },
-        subtract: function(inc) {
-            this.age -= inc;
-        },
-        updateXY: function(event) {
-            this.x = event.offsetX;
-            this.y = event.offsetY;
-        },
-        click: function() {
-            alert('you clicked me');
+        logAge: function() {
+            console.log('you entered your age');
         }
     }
 });
