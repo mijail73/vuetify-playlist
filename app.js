@@ -1,11 +1,10 @@
 new Vue({
     el:'#vue-app',
     data : {
-        // name: 'Mijail',
-        // job: 'Intern',
+        name: '',
+        age: '',
         // website: 'http://google.com',
         // websiteTag: '<a href="http://google.com">The Google</a>'
-        age: 25,
         x: 0,
         y: 0
     },
