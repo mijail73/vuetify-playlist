@@ -9,13 +9,17 @@
 </head>
 <body>
     <div id="vue-app">
-        <h1>Keyboard Events</h1>
-            <label>Name:</label>
-            <input type="text" v-on:keyup.enter="logName" v-model="name">
-            <span>{{ name }}</span>
-            <label>Age:</label>
-            <input type="text" v-on:keyup.alt.enter="logAge" v-model="age">
-            <span>{{ age }}</span>
+        <!-- bag image -->
+        <div id="bag" v-bind:class="{burst: ended}"></div>
+        <!-- bag health bar -->
+        <div id="bag-health">
+            <div v-bind:style="{width: health + '%'}"></div>
+        </div>
+        <!-- game control buttons -->
+        <div id="controls">
+            <button v-on:click="punch" v-show="!ended">Punch</button>
+            <button v-on:click="restart">Restart</button>
+        </div>
     </div>
     <script src="app.js"></script>
 </body>

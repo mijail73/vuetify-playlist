@@ -1,35 +1,21 @@
 new Vue({
     el:'#vue-app',
     data : {
-        name: '',
-        age: '',
-        // website: 'http://google.com',
-        // websiteTag: '<a href="http://google.com">The Google</a>'
-        x: 0,
-        y: 0
+        health: 100,
+        ended: false
     },
     methods: {
-        // greet: function(time) {
-        //     return 'Good ' + time + ' ' + this.name;
-        // }
-        // add: function(inc) {
-        //     this.age += inc;
-        // },
-        // subtract: function(inc) {
-        //     this.age -= inc;
-        // },
-        // updateXY: function(event) {
-        //     this.x = event.offsetX;
-        //     this.y = event.offsetY;
-        // },
-        // click: function() {
-        //     alert('you clicked me');
-        // }
-        logName: function() {
-            console.log('you entered your name');
+        punch: function() {
+            this.health -= 10;
+            if(this.health <= 0)
+                this.ended = true;
         },
-        logAge: function() {
-            console.log('you entered your age');
+        restart: function() {
+            this.health = 100;
+            this.ended = false;
         }
+    },
+    computed: {
+        
     }
 });
