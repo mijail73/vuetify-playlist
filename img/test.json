@@ -1,0 +1,372 @@
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAMO710810LKA",
+            "nombre": "Omar",
+            "apellidoPaterno": "Amador",
+            "apellidoMaterno": "Mu\u00f1oz",
+            "correo": "oam@atmosfera.unam.mx",
+            "telefono": "5512955063",
+            "extension": "",
+            "password": "Zmcoam01",
+            "tipoTutor": "I",
+            "lugarTrabajo": "Centro de Ciencias de la Atm\u00f3sfera",
+            "requerimientosEspecificos": "Ninguno",
+            "paginaPersonal": "https:\/\/www.atmosfera.unam.mx\/ciencias-ambientales\/genotoxicologia-y-mutagenesis-ambientales\/omar-am",
+            "publicacionesRecientes": "1. Amador-Mu\u00f1oz O., Misztal P.K., Weber R., Worton D.R., Zhang H., Drozd G., Goldstein A.H. (2016). Sensitive detection of n-alkanes using a mixed ionization mode Proton-Transfer Reaction \u2013 Mass Spectrometer. Atmospheric Measurements Techniques. 9, 5315-5329.\n\n2. Beristain-Montiel E., Villalobos-Pietrini R., Arias-Loaiza G.E., G\u00f3mez-Arroyo S.L., Amador-Mu\u00f1oz O. (2016). An Innovative Ultrasound Assisted Extraction Micro-Scale Cell combined with Gas Chromatography \/ Mass Spectrometry in Negative Chemical Ionization to Determine Persistent Organic Pollutants in Air Particulate Matter. Journal of Chromatography A. 1477, 100-107.\n\n3.\tArias-Loaiza G.E., Beristain-Montiel E., G\u00f3mez-Arroyo A., Amador-Mu\u00f1oz O. (2018). A Thermo-cavitation method to determine organochlorine pesticides in gas and particle phases collected in polyurethane foam used in passive air samplers. Water Air & Soil Pollution. 229, 282. \n\n4. Amador-Mu\u00f1oz O., Mart\u00ednez-Dom\u00ednguez Y.M., G\u00f3mez-Arroyo S., Peralta O. (2020). Current situation of polycyclic aromatic hydrocarbons (PAH) in PM2.5 in a receptor site in Mexico City and estimation of carcinogenic PAH by combining non-real-time and real-time measurement techniques. Science of the Total Environment. 703, 134526. \n\n5. Garc\u00eda L., Muro C., De la Rosa I., Amador-Mu\u00f1oz O., Ponce M.G., Borja M. (2020). Comparison of gas chromatography techniques for the analysis of organochlorine pesticides in sediments. Soil and Sediment Contamination: An International Journal. 29, 257-271. \n\n6. Saini A., Harner T., Chinnadhurai S., Schuster J.K., Yates A., Sweetman A., Aristizabal-Zuluaga B.H., Jim\u00e9nez B., Manzano C.A., Gaga E.O., Stevenson G., Falandysz J., Ma J., Miglioranza K.S.B., Kannan K., Tominaga M., Jariyasopit N., Rojas N.Y., Amador-Mu\u00f1oz O., Sinha R., Alani R., Suresh R., Nishino T., Shoeib T. (2020). GAPS-Megacities: A new global platform for investigating persistent organic pollutants and chemicals of emerging concern in urban air. Environmental Pollution. En p",
+            "idGradoAcademico": "4",
+            "investigaciones": [
+                {
+                    "idInvestigacion": "109",
+                    "lineaInvestigacion": "Aerosoles Org\u00e1nicos Atmosf\u00e9ricos",
+                    "disciplina": "Quimica Atmosf\u00e9rica",
+                    "especialidad": "Qu\u00edmica Anal\u00edtica, GC-MS, TAG-GC-MS",
+                    "numeroAlumnos": "2",
+                    "alumnosInscritos": "0",
+                    "idSemestre": "1",
+                    "idTutor": "AAMO710810LKA",
+                    "fechaHoraAlta": "2020-08-25 15:22:06"
+                },
+                {
+                    "idInvestigacion": "110",
+                    "lineaInvestigacion": "Biomarcadores Org\u00e1nicos para diagn\u00f3stico temprano no invasivo de c\u00e1ncer de mama y pulm\u00f3n",
+                    "disciplina": "Salud y Ambiente",
+                    "especialidad": "Qu\u00edmica Anal\u00edtica, PTR-TOFMS",
+                    "numeroAlumnos": "2",
+                    "alumnosInscritos": "0",
+                    "idSemestre": "1",
+                    "idTutor": "AAMO710810LKA",
+                    "fechaHoraAlta": "2020-08-25 15:22:06"
+                },
+                {
+                    "idInvestigacion": "111",
+                    "lineaInvestigacion": "Desarrollo de Tecnolog\u00eda Verdes",
+                    "disciplina": "Qu\u00edmica Anal\u00edtica Verde",
+                    "especialidad": "An\u00e1lisis de Compuestos Org\u00e1nicos T\u00f3xicos Atmosf\u00e9ri",
+                    "numeroAlumnos": "2",
+                    "alumnosInscritos": "0",
+                    "idSemestre": "1",
+                    "idTutor": "AAMO710810LKA",
+                    "fechaHoraAlta": "2020-08-25 15:22:06"
+                }
+            ]
+        }
+    ]
+}
+
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idInvestigacion": "109",
+            "lineaInvestigacion": "Aerosoles Org\u00e1nicos Atmosf\u00e9ricos",
+            "alumnosInscritos": [],
+            "numeroAlumnos": "2"
+        },
+        {
+            "idInvestigacion": "110",
+            "lineaInvestigacion": "Biomarcadores Org\u00e1nicos para diagn\u00f3stico temprano no invasivo de c\u00e1ncer de mama y pulm\u00f3n",
+            "alumnosInscritos": [],
+            "numeroAlumnos": "2"
+        },
+        {
+            "idInvestigacion": "111",
+            "lineaInvestigacion": "Desarrollo de Tecnolog\u00eda Verdes",
+            "alumnosInscritos": [],
+            "numeroAlumnos": "2"
+        }
+    ]
+}
+
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAIJ590624IK2",
+            "nombre": "Juan Ra\u00fal",
+            "apellidoPaterno": "Alvarez",
+            "apellidoMaterno": "Idaboy",
+            "correo": "jidaboy@unam.mx",
+            "telefono": "5554459397",
+            "extension": "",
+            "password": "Annia667",
+            "tipoTutor": "I",
+            "lugarTrabajo": "Edificio B Facultad de Quimica ",
+            "requerimientosEspecificos": "",
+            "paginaPersonal": "https:\/\/quimica.unam.mx\/perfil\/juan-raul-alvarez-idaboy\/",
+            "publicacionesRecientes": "1.\tAdriana P\u00e9rez-Gonz\u00e1lez, Romina Casta\u00f1eda-Arriaga, Juan Ra\u00fal \u00c1lvarez-Idaboy, Russel J.Reiter, Annia Galano Melatonin and its Metabolites as Chemical Agents Capable of Directly Repairing Oxidized DNA. J Pineal Res. 2019;66:e12539. DOI: 10.1111\/jpi.12539\n2.\tR. Ramis, R. Casasnovas, J. Ortega-Castro, J. Frau, J. R. Alvarez-Idaboy N. Mora-Diez Modelling the repair of carbon-centred protein radicals by the antioxidants glutathione and Trolox New J. Chem.,2019,43,2085\n3.\tLino Reyes, Mar\u00eda In\u00e9s Nicol\u00e1s-V\u00e1zquez, Cristina Iuga, J. Raul Alvarez-Idaboy; Reinvestigation of Acetophenones Oxidation by Performic Acid in Formic Acid; The Journal of Physical Chemistry A, 2019, 123, 10, 1968-1972\n4.\tMirzam Carre\u00f3n-Gonz\u00e1lez, Annik Vivier-Bunge, Juan Raul Alvarez-Idaboy Thiophenols, Promising Scavengers of Peroxyl Radicals: Mechanisms and kinetics, J. Comput. Chem.2019,40, 2103\u20132110\n5.\t Leonardo Mu\u00f1oz-Rugeles, Annia Galano, Juan Ra\u00fal Alvarez-Idaboy, Chemical repair mechanisms of damaged tyrosyl and tryptophanyl residues in proteins by the superoxide radical anion New J. Chem., 2020, 44, 2505-2513\n6.\tLaura Mar\u00eda Castro Gonz\u00e1lez, Juan Raul Alvarez-Idaboy, Annia Galano; \u201cComputationally Designed Sesamol Derivatives Proposed as Potent Antioxidants\u201d; ACS Omega 2020, 5, 16, 9566\u20139575\n7.\tIsabella Romeo, Angela Parise, Annia Galano, Nino Russo, Juan Ra\u00fal Alvarez-Idaboy Tiziana Marino \u201cThe Antioxidant Capability of Higenamine: Insights from Theory\u201d Antioxidants 2020, 9(5), 358\n8.\tRomina Casta\u00f1eda-Arriaga, Tiziana Marino, Nino Russo, Juan Ra\u00fal Alvarez-Idaboy, Annia Galano \u201cChalcogen Effects on the Primary Antioxidant Activity of Chrysin and Quercetin\u201d New J. Chem., 2020, 44, 9073\n9.\tKavanal P. Prasanthkumar, Manoj P. Rayaroth, and Juan R. Alvarez-Idaboy \u201cInsights into the Mechanism of Hydroxyl Radical Mediated Oxidations of 2-Aminopurine: A Computational and Sonochemical Product Analysis Study\u201d J. Phys. Chem. B 2020, 124, 6245\u22126256 DOI: 10.1021\/acs.jpcb.0c03974\n\n",
+            "idGradoAcademico": "4"
+        }
+    ]
+}
+
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAIJ590624IK2",
+            "nombre": "Juan Ra\u00fal",
+            "apellidoPaterno": "Alvarez",
+            "apellidoMaterno": "Idaboy",
+            "correo": "jidaboy@unam.mx",
+            "telefono": "5554459397",
+            "extension": "",
+            "password": "Annia667",
+            "tipoTutor": "I",
+            "lugarTrabajo": "Edificio B Facultad de Quimica ",
+            "requerimientosEspecificos": "",
+            "paginaPersonal": "https:\/\/quimica.unam.mx\/perfil\/juan-raul-alvarez-idaboy\/",
+            "publicacionesRecientes": "1.\tAdriana P\u00e9rez-Gonz\u00e1lez, Romina Casta\u00f1eda-Arriaga, Juan Ra\u00fal \u00c1lvarez-Idaboy, Russel J.Reiter, Annia Galano Melatonin and its Metabolites as Chemical Agents Capable of Directly Repairing Oxidized DNA. J Pineal Res. 2019;66:e12539. DOI: 10.1111\/jpi.12539\n2.\tR. Ramis, R. Casasnovas, J. Ortega-Castro, J. Frau, J. R. Alvarez-Idaboy N. Mora-Diez Modelling the repair of carbon-centred protein radicals by the antioxidants glutathione and Trolox New J. Chem.,2019,43,2085\n3.\tLino Reyes, Mar\u00eda In\u00e9s Nicol\u00e1s-V\u00e1zquez, Cristina Iuga, J. Raul Alvarez-Idaboy; Reinvestigation of Acetophenones Oxidation by Performic Acid in Formic Acid; The Journal of Physical Chemistry A, 2019, 123, 10, 1968-1972\n4.\tMirzam Carre\u00f3n-Gonz\u00e1lez, Annik Vivier-Bunge, Juan Raul Alvarez-Idaboy Thiophenols, Promising Scavengers of Peroxyl Radicals: Mechanisms and kinetics, J. Comput. Chem.2019,40, 2103\u20132110\n5.\t Leonardo Mu\u00f1oz-Rugeles, Annia Galano, Juan Ra\u00fal Alvarez-Idaboy, Chemical repair mechanisms of damaged tyrosyl and tryptophanyl residues in proteins by the superoxide radical anion New J. Chem., 2020, 44, 2505-2513\n6.\tLaura Mar\u00eda Castro Gonz\u00e1lez, Juan Raul Alvarez-Idaboy, Annia Galano; \u201cComputationally Designed Sesamol Derivatives Proposed as Potent Antioxidants\u201d; ACS Omega 2020, 5, 16, 9566\u20139575\n7.\tIsabella Romeo, Angela Parise, Annia Galano, Nino Russo, Juan Ra\u00fal Alvarez-Idaboy Tiziana Marino \u201cThe Antioxidant Capability of Higenamine: Insights from Theory\u201d Antioxidants 2020, 9(5), 358\n8.\tRomina Casta\u00f1eda-Arriaga, Tiziana Marino, Nino Russo, Juan Ra\u00fal Alvarez-Idaboy, Annia Galano \u201cChalcogen Effects on the Primary Antioxidant Activity of Chrysin and Quercetin\u201d New J. Chem., 2020, 44, 9073\n9.\tKavanal P. Prasanthkumar, Manoj P. Rayaroth, and Juan R. Alvarez-Idaboy \u201cInsights into the Mechanism of Hydroxyl Radical Mediated Oxidations of 2-Aminopurine: A Computational and Sonochemical Product Analysis Study\u201d J. Phys. Chem. B 2020, 124, 6245\u22126256 DOI: 10.1021\/acs.jpcb.0c03974\n\n",
+            "idGradoAcademico": "4"
+        }
+    ]
+}
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAIJ590624IK2",
+            "nombre": "Juan Ra\u00fal",
+            "apellidoPaterno": "Alvarez",
+            "apellidoMaterno": "Idaboy",
+            "correo": "jidaboy@unam.mx",
+            "telefono": "5554459397",
+            "extension": "",
+            "lugarTrabajo": "Edificio B Facultad de Quimica ",
+            "paginaPersonal": "https:\/\/quimica.unam.mx\/perfil\/juan-raul-alvarez-idaboy\/"
+        }
+    ]
+}
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAMO710810LKA",
+            "nombre": "Omar",
+            "apellidoPaterno": "Amador",
+            "apellidoMaterno": "Mu\u00f1oz",
+            "correo": "oam@atmosfera.unam.mx",
+            "telefono": "5512955063",
+            "extension": "",
+            "lugarTrabajo": "Centro de Ciencias de la Atm\u00f3sfera",
+            "paginaPersonal": "https:\/\/www.atmosfera.unam.mx\/ciencias-ambientales\/genotoxicologia-y-mutagenesis-ambientales\/omar-am",
+            "investigacion": [
+                {
+                    "alumnosInscritos": []
+                },
+                {
+                    "alumnosInscritos": []
+                },
+                {
+                    "alumnosInscritos": []
+                }
+            ]
+        },
+        {
+            "idInvestigacion": "109",
+            "lineaInvestigacion": "Aerosoles Org\u00e1nicos Atmosf\u00e9ricos",
+            "alumnosInscritos": null,
+            "numeroAlumnos": "2"
+        },
+        {
+            "idInvestigacion": "110",
+            "lineaInvestigacion": "Biomarcadores Org\u00e1nicos para diagn\u00f3stico temprano no invasivo de c\u00e1ncer de mama y pulm\u00f3n",
+            "alumnosInscritos": null,
+            "numeroAlumnos": "2"
+        },
+        {
+            "idInvestigacion": "111",
+            "lineaInvestigacion": "Desarrollo de Tecnolog\u00eda Verdes",
+            "alumnosInscritos": null,
+            "numeroAlumnos": "2"
+        }
+    ]
+}
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAMO710810LKA",
+            "nombre": "Omar",
+            "apellidoPaterno": "Amador",
+            "apellidoMaterno": "Mu\u00f1oz",
+            "correo": "oam@atmosfera.unam.mx",
+            "telefono": "5512955063",
+            "extension": "",
+            "lugarTrabajo": "Centro de Ciencias de la Atm\u00f3sfera",
+            "paginaPersonal": "https:\/\/www.atmosfera.unam.mx\/ciencias-ambientales\/genotoxicologia-y-mutagenesis-ambientales\/omar-am",
+            "investigaciones": [
+                {
+                    "idInvestigacion": "109",
+                    "lineaInvestigacion": "Aerosoles Org\u00e1nicos Atmosf\u00e9ricos",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                },
+                {
+                    "idInvestigacion": "110",
+                    "lineaInvestigacion": "Biomarcadores Org\u00e1nicos para diagn\u00f3stico temprano no invasivo de c\u00e1ncer de mama y pulm\u00f3n",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                },
+                {
+                    "idInvestigacion": "111",
+                    "lineaInvestigacion": "Desarrollo de Tecnolog\u00eda Verdes",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                }
+            ]
+        }
+    ]
+}
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAIJ590624IK2",
+            "nombre": "Juan Ra\u00fal",
+            "apellidoPaterno": "Alvarez",
+            "apellidoMaterno": "Idaboy",
+            "correo": "jidaboy@unam.mx",
+            "telefono": "5554459397",
+            "extension": "",
+            "lugarTrabajo": "Edificio B Facultad de Quimica ",
+            "paginaPersonal": "https:\/\/quimica.unam.mx\/perfil\/juan-raul-alvarez-idaboy\/",
+            "investigaciones": [
+                {
+                    "idInvestigacion": "9",
+                    "lineaInvestigacion": "Estudio computacional de reacciones relacionadas con el estr\u00e9s oxidante",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "5"
+                }
+            ]
+        }
+    ]
+}
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAVB830519S29",
+            "nombre": "BRENDA CECILIA",
+            "apellidoPaterno": "ALCANTAR",
+            "apellidoMaterno": "VAZQUEZ",
+            "correo": "balcantarv@iingen.unam.mx",
+            "telefono": "6643271602",
+            "extension": "",
+            "lugarTrabajo": "Instituto de Ingenier\u00eda, UNAM",
+            "paginaPersonal": "",
+            "investigaciones": [
+                {
+                    "idInvestigacion": "228",
+                    "lineaInvestigacion": "Desarrollo de materiales para tratamiento de emisiones gaseosas",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "1"
+                },
+                {
+                    "idInvestigacion": "229",
+                    "lineaInvestigacion": "Captura de CO2 utilizando s\u00edlice obtenida de una planta geot\u00e9rmica modificada con aminas",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "1"
+                }
+            ]
+        }
+    ]
+}
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAMO710810LKA",
+            "nombre": "Omar",
+            "apellidoPaterno": "Amador",
+            "apellidoMaterno": "Mu\u00f1oz",
+            "correo": "oam@atmosfera.unam.mx",
+            "telefono": "5512955063",
+            "extension": "",
+            "lugarTrabajo": "Centro de Ciencias de la Atm\u00f3sfera",
+            "paginaPersonal": "https:\/\/www.atmosfera.unam.mx\/ciencias-ambientales\/genotoxicologia-y-mutagenesis-ambientales\/omar-am",
+            "investigaciones": [
+                {
+                    "idInvestigacion": "109",
+                    "lineaInvestigacion": "Aerosoles Org\u00e1nicos Atmosf\u00e9ricos",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                },
+                {
+                    "idInvestigacion": "110",
+                    "lineaInvestigacion": "Biomarcadores Org\u00e1nicos para diagn\u00f3stico temprano no invasivo de c\u00e1ncer de mama y pulm\u00f3n",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                },
+                {
+                    "idInvestigacion": "111",
+                    "lineaInvestigacion": "Desarrollo de Tecnolog\u00eda Verdes",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                }
+            ]
+        },
+        "T"
+    ]
+}
+
+{
+    "replyCode": 200,
+    "replyText": "Petici\u00f3n correcta",
+    "data": [
+        {
+            "idTutor": "AAMO710810LKA",
+            "nombre": "Omar",
+            "apellidoPaterno": "Amador",
+            "apellidoMaterno": "Mu\u00f1oz",
+            "correo": "oam@atmosfera.unam.mx",
+            "telefono": "5512955063",
+            "extension": "",
+            "lugarTrabajo": "Centro de Ciencias de la Atm\u00f3sfera",
+            "paginaPersonal": "https:\/\/www.atmosfera.unam.mx\/ciencias-ambientales\/genotoxicologia-y-mutagenesis-ambientales\/omar-am",
+            "investigaciones": [
+                {
+                    "idInvestigacion": "109",
+                    "lineaInvestigacion": "Aerosoles Org\u00e1nicos Atmosf\u00e9ricos",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                },
+                {
+                    "idInvestigacion": "110",
+                    "lineaInvestigacion": "Biomarcadores Org\u00e1nicos para diagn\u00f3stico temprano no invasivo de c\u00e1ncer de mama y pulm\u00f3n",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                },
+                {
+                    "idInvestigacion": "111",
+                    "lineaInvestigacion": "Desarrollo de Tecnolog\u00eda Verdes",
+                    "alumnosInscritos": [],
+                    "numeroAlumnos": "2"
+                }
+            ]
+        },
+        {
+            "tipo": "T"
+        }
+    ]
+}
